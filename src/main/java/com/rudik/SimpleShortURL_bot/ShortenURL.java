@@ -8,7 +8,7 @@ import java.net.URL;
 
 public class ShortenURL {
 
-    private static final String IS_GD = "https://is.gd/create.php?format=simple&url=";
+    private static final String IS_GD = "g/create.php?format=simple&url=";
 
     private static final int HTTP_STATUS_OK = 200;
 
